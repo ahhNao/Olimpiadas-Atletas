@@ -1,6 +1,6 @@
 ## Olimpiadas 2024: Seu Guia Completo para os Atletas Brasileiros!
 
-** Descubra os heróis do esporte brasileiro!**
+Descubra os heróis do esporte brasileiro!
 
 Essa aplicação te ajuda a encontrar todos os detalhes sobre seus atletas favoritos das Olimpíadas de 2024. Com apenas alguns cliques, você pode pesquisar por nome, esporte ou até mesmo por tags relacionadas.
 
